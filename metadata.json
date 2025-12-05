@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 拾光纪 app",
+  "description": "A 3D interactive particle system controlled by gestures and voice sentiment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
